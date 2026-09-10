@@ -1,9 +1,9 @@
-Python
+
 Pandas
 NumPy
 Scikit-learn
 NLTK
-Jupyter Notebook
 Streamlit
-TMDB API
-VS Code
+requests
+
+
